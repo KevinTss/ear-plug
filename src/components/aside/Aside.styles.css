@@ -1,0 +1,7 @@
+.aside {
+  background-color: lightskyblue;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 1rem;
+}
